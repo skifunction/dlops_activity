@@ -16,6 +16,6 @@
 + README.md: This file providing information about the project.
 + Dry_Bean_Dataset.xlsx: Dataset file for testing the tool.
 + Dry_Bean_Dataset.txt: Metadata for dataset.
-+ Dry_Bean_Dataset.attr: attribute file.
++ Dry_Bean_Dataset.arff: attribute file.
 ## License
 This project is licensed under the MIT License.
